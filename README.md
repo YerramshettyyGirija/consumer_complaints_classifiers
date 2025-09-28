@@ -16,6 +16,9 @@ Each run includes a verification cell at the top of the notebook that prints my 
 ## 📂 Repository Contents
 - `kaiburr2.ipynb` — Main Colab notebook with full code.  
 - `requirements.txt` —- `requirements.txt` — Dependencies (numpy, pandas, matplotlib, seaborn, scikit-learn, nltk, joblib). 
-- `screenshots/` — Screenshots of the code execution (with name + IST time).  
+- `screenshots/` — Screenshots of the code execution (with name + IST time).
+
+## Screenshots
+-Screenshot 2025-09-28 224257.png
 
 
